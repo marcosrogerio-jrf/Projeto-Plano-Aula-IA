@@ -1,105 +1,41 @@
-# Plano de Aula Interativo e Personalizado com Ecossistema IA
+# Projeto-Plano-Aula-IA [Assistido por IA]
 
-**Descrição do desafio**  
-Desafio prático em **IA aplicada à educação** para avaliar as competências adquiridas e preparar a aplicação no mundo real. Você irá criar um plano de aula **interativo e personalizado** usando um **ecossistema de IA** (ex.: ChatGPT e Microsoft Copilot), com atenção a **ética, autoria e proteção de dados (LGPD)**, além de **adaptação para pelo menos dois perfis de alunos** e **internacionalização** de um pequeno trecho do material.  
-A entrega inclui **plano**, **apresentação** e **reflexão crítica**, com **transparência** sobre o que foi assistido/gerado por IA e qual foi a revisão humana.
+## 1. Descrição do Desafio [Assistido por IA]
+Este projeto consiste no desenvolvimento de um ecossistema pedagógico de alto nível, integrando Inteligência Artificial Generativa para otimizar o planejamento docente. O desafio central foi criar um plano de aula sobre **Brasil Colônia** (História, 7º ano) que fosse tecnicamente rigoroso, pedagogicamente inclusivo e que utilizasse a IA não apenas como gerador de texto, mas como agente de personalização e acessibilidade.
 
----
+## 2. Resumo do Plano de Aula [Assistido por IA]
+* **Contexto:** Estudo das estruturas socioeconômicas do Brasil Colonial (séculos XVI-XVII), com foco no sistema de engenho e dinâmicas de poder.
+* **Objetivos:** Identificar o sistema de *plantation*, descrever a hierarquia social e analisar formas de resistência (Quilombos).
+* **Metodologia:** Aprendizagem Ativa e Ensino Híbrido. Inclui o uso de "Personas Históricas" via IA para simular diálogos e debates em sala de aula.
+* **Avaliação:** Formativa e processual, apoiada por uma rubrica de desempenho que mede desde a compreensão histórica até o uso ético da tecnologia.
 
-## 1) Objetivos de aprendizagem
-- Aplicar fundamentos de IA para **escolher ferramentas** adequadas em cada etapa (planejamento, materiais, apresentação, adaptação, tradução).
-- **Gerar o esqueleto do plano de aula** com IA e transformá-lo em um documento didático completo.
-- Produzir **materiais e slides** com suporte de IA, mantendo autoria e clareza pedagógica.
-- **Adaptar** conteúdo/atividades para **≥ 2 perfis de alunos** (ex.: dificuldades de leitura vs. alto interesse; perfil visual vs. auditivo).
-- **Internacionalizar** um pequeno trecho do material (revisão + tradução rápida) para inclusão linguística.
-- Demonstrar **boas práticas de ética, privacidade e transparência** no uso de IA.
+## 3. Ferramentas de IA Utilizadas [Assistido por IA]
+| Ferramenta | Aplicação no Projeto |
+| :--- | :--- |
+| **ChatGPT / Gemini** | Estruturação do plano, geração de textos didáticos e criação de rubricas. |
+| **Copilot** | Pesquisa de referências bibliográficas e auxílio na formatação de documentos. |
+| **Word / PowerPoint** | Edição final dos documentos e design de slides com auxílio de IA interna. |
 
----
+## 4. Personalização para Perfis [Assistido por IA]
+O projeto entrega caminhos diferenciados para garantir a equidade:
+* **Perfil A (Dificuldade de Leitura):** Apoio com ferramentas de *Text-to-Speech*, glossários visuais e redução da densidade textual.
+* **Perfil B (Avançado):** Desafios de análise crítica de fontes, verificação de alucinações de IA e estudo de documentos primários.
 
-## 2) Entregáveis (obrigatórios)
-- **Plano de Aula Detalhado** — `Plano_de_Aula_IA.pdf` **ou** `.docx`  
-  Deve conter: objetivos, conteúdo, metodologia, avaliação e diferenciação.  
-  > Indique claramente o que foi **criado/assistido por IA** (ex.: comentários no Word, marcações no PDF).
-- **Apresentação** — `Apresentacao_Aula_IA.pptx` **ou** link do PowerPoint online  
-  > Se hospedado em OneDrive/Google Drive, inclua o **link** no README.
-- **Reflexão** — `Reflexao_IA.docx` **ou** `.pdf` **ou** seção no README  
-  > Explique ferramentas usadas, desafios (ética/privacidade), soluções, **ganhos de tempo** e **lições aprendidas**.
-- **README.md** (este arquivo) — título, descrição do desafio, **resumo do plano**, ferramentas de IA, links externos, **reflexão final** e **créditos**.
+## 5. Internacionalização [Assistido por IA]
+* **Idioma:** Português (Brasil).
+* **Nível CEFR:** B1/B2 (Intermediário).
+* **Como usar:** O conteúdo pode ser adaptado para aulas de PLE (Português Língua Estrangeira) ou traduzido para História da América, utilizando a IA para ajustar o vocabulário ao nível desejado.
 
----
+## 6. Documentos do Projeto
+* [📄 Plano_de_Aula_IA.pdf](./Plano_de_Aula_IA.pdf)
+* [🖥️ Apresentacao_Aula_IA.pptx](./Apresentacao_Aula_IA.pptx)
+* [📝 Reflexao_IA.pdf](./Reflexao_IA.pdf)
 
-## 3) Estrutura do repositório (sugerida)
-```
+## 7. Checklist de Envio [Assistido por IA]
+- [x] Plano de aula completo com objetivos mensuráveis.
+- [x] Materiais complementares (textos e exercícios).
+- [x] Adaptações para perfis diferenciados.
+- [x] Reflexão crítica sobre o uso da tecnologia.
 
-📁 Projeto-Plano-Aula-IA/
-├── Plano_de_Aula_IA.pdf
-├── Apresentacao_Aula_IA.pptx
-├── Reflexao_IA.docx
-└── README.md
-
-```
-
----
-
-## 4) Resumo do plano de aula (preencha)
-- **Tema/Disciplina:** [ex.: Frações — 6º ano]
-- **Objetivos de aprendizagem:** [bullets]
-- **Conteúdo programático:** [bullets]
-- **Metodologia e recursos (incluindo IA):** [bullets]
-- **Avaliação e critérios:** [bullets]
-- **Diferenciação/Adaptações:** [estratégias para atender perfis distintos]
-
-> **Transparência de IA:** use comentários/revisões no Word ou marcações no PDF para sinalizar os trechos **assistidos/gerados por IA** e a **revisão humana** aplicada.
-
----
-
-## 5) Personalização para 2 perfis de alunos (obrigatória)
-Descreva como o plano contempla **pelo menos dois perfis**:
-- **Perfil A:** [características] → *adaptações em conteúdo/atividade/avaliação*  
-- **Perfil B:** [características] → *adaptações em conteúdo/atividade/avaliação*
-
-> Exemplos de perfis: dificuldades de leitura; alto interesse no tema; preferência visual; preferência auditiva; necessidades de ritmo diferenciado; acesso limitado a tecnologia etc.
-
----
-
-## 6) Internacionalização de um trecho (obrigatória)
-Inclua um **pequeno trecho** do material com **revisão inteligente e tradução rápida**:
-- **Trecho original:** [colar ou linkar]
-- **Trecho traduzido:** [colar ou linkar]
-- **Observações de inclusão linguística:** [como o trecho pode apoiar estudantes multilíngues]
-
----
-
-## 7) Ecossistema de IA — fluxo sugerido
-1. **ChatGPT** → gerar esqueleto do plano; rascunhar atividades; criar variações para perfis distintos.  
-2. **Copilot no Word** → refinar linguagem, formatar o documento, revisar e **traduzir** o pequeno trecho.  
-3. **Copilot no PowerPoint** → criar slides que **sintetizem** conteúdo e **engajem** a turma.  
-4. **Revisão humana** → checagem de precisão, alinhamento curricular, direitos autorais e adequação do nível de leitura.
-
-> Dica: mantenha **prompts reutilizáveis** em um `.docx`/`.txt` (ex.: “Estrutura de objetivos”, “Adaptar para perfil visual”, “Reescrever em linguagem simples”, “Gerar slides-resumo por seção”).
-
----
-
-## 8) Ética, proteção de dados e autoria
-- **Privacidade/LGPD:** não compartilhe dados pessoais; **anonimize** exemplos (nomes, imagens, localização).  
-- **Autoria e fontes:** cite referências; evite plágio; verifique originalidade quando necessário.  
-- **Transparência:** documente **o que a IA produziu** e **o que você revisou/ajustou**.  
-- **Limites e vieses:** faça leitura crítica das saídas da IA e ajuste para o contexto pedagógico real.
-
----
-
-## 9) Reflexão (resumida aqui ou em arquivo dedicado)
-- **Ferramentas de IA utilizadas** e **por que** foram escolhidas.  
-- **Desafios** (especialmente ética/privacidade) e **soluções adotadas**.  
-- **Otimização do tempo:** o que acelerou? o que exigiu mais curadoria humana?  
-- **Personalização:** efeitos das adaptações nos diferentes perfis.  
-- **Lições aprendidas** e próximos passos.
-
----
-
-## 10) Como entregar no GitHub (passo a passo)
-1. Acesse o GitHub e clique em **New repository**.  
-2. Dê um **nome** ao repositório (ex.: `Projeto-Plano-Aula-IA`) e deixe como **público**.  
-3. Faça **upload** de `Plano_de_Aula_IA.pdf|.docx`, `Apresentacao_Aula_IA.pptx` (ou inclua o **link** no README), `Reflexao_IA.docx|.pdf` e este `README.md`.  
-4. **Confira os nomes dos arquivos** exatamente como acima.  
-5. Clique em **Commit changes** e compartilhe o **link do repositório**.
+## 8. Créditos
+Desenvolvido por **[Marcos Rogério Ferreira/[GitHub](https://github.com/marcosrogerio-jrf/Projeto-Plano-Aula-IA)]** como parte do desafio de IA aplicada à Educação.
